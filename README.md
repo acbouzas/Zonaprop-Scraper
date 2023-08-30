@@ -2,6 +2,11 @@
 Obtain argentinian real state data with this Zonaprop scraper.
 Scrape property data from Zonaprop using this Python script. Extracted details include property URL, price, and location. The script uses Beautiful Soup for HTML parsing and Playwright for automated browsing.
 
+![script_example](https://github.com/acbouzas/Zonaprop-Scraper/blob/main/images/zonapropscreenshot.png)
+![data_example]()
+![exceptions_example]()
+
+
 ## Usage
 
 1. **Data Preparation:**
@@ -29,6 +34,3 @@ The script handles errors during scraping and logs failures for debugging.
 - Adjust script if Zonaprop's structure changes.
 - Use a virtual environment for compatibility and to prevent package conflicts.
 
-![script_example](https://github.com/acbouzas/Zonaprop-Scraper/blob/main/images/zonapropscreenshot.png)
-![data_example]()
-![exceptions_example]()
